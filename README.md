@@ -1,2 +1,1 @@
-# CODSOFT
-Tasks by CODSOFT
+A sample website using Bootstrap.
